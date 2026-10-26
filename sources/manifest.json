@@ -1,0 +1,19 @@
+{
+  "exportedOn": "2026-10-15",
+  "version": "v1.0",
+  "mode": "one-time-snapshot",
+  "sources": [
+    {
+      "url": "https://app.notion.com/p/105fa079015e4e22b89c53017a5114f0",
+      "title": "SW Notion AI 视频生成（sw-notion-video v1.0）",
+      "contentLastEditedAt": 1791962869265,
+      "contentSha256": "8432d2523ec5c151b92491e71b1de9528f0b54b8c7679b162ec0694e44124aa2"
+    },
+    {
+      "url": "https://app.notion.com/p/41ba76f8064f483c9c5b00efd15c4188",
+      "title": "技术配方（sw-notion-video）",
+      "contentLastEditedAt": 1791962857181,
+      "contentSha256": "80b6c248aaa592199d529a7e9dd870f68ff393bc53abd6b024bce786a9e0bcff"
+    }
+  ]
+}
